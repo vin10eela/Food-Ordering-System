@@ -1,0 +1,37 @@
+{
+  "name": "foodorderingsystem",
+  "version": "1.0.0",
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^16.1.7",
+    "@angular/core": "^16.1.7",
+    "@angular/forms": "^16.1.7",
+    "@angular/platform-browser": "^16.1.7",
+    "@angular/platform-browser-dynamic": "^16.1.7",
+    "@angular/router": "^16.1.7",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "razorpay": "^2.8.6",
+    "stripe": "^12.7.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^16.1.6"
+  }
+}
